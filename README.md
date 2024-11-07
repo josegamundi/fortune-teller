@@ -18,7 +18,7 @@ The program will visit each column of the table below, randomly selecting a cell
 
 **Output example:**
 
-`In one year from now`, `you` `will` `face` `how this ends`.
+`In one year from now`, `you will` `face` `how this ends`.
 
 A different message will be printed each time the program is executed.
 
