@@ -38,4 +38,4 @@ You will see on the last line of your terminal, the fortune that could be waitin
 
 ## License
 
-MIT
+[MIT](LICENSE.txt)
