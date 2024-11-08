@@ -1,4 +1,4 @@
-# Message Generator: Fortune Teller
+# Mixed Message Generator: Fortune Teller
 
 ## Description
 
