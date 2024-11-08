@@ -8,7 +8,7 @@ A program that generates random fortune predictions by combining multiple pieces
 
 The program will visit each column of the table below, randomly selecting a cell or piece of text to form a message that will tell the fortune of the person who execute the program.
 
-| Time | Subject + Modal Verb | Main Verb | Noun |
+| Piece 1 | Piece 2 | Piece 3 | Piece 4 |
 | --- | --- | --- | --- |
 | Tomorrow | you will | find | a new highly paid job |
 | In one year from now | you are going to | encounter  | your soulmate |
